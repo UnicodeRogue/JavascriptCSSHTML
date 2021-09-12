@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background: #515189;
+  color: #cdecf0;
+  font-family: serif;
+  font-size: 17px;
+}
+
+.title {
+  font-size: 30px;
+  font-family: serif;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  letter-spacing: 1.5px;
+}
+
+p {
+  font-size: 14px;
+  text-transform:  
+  text-decoration:  
+  font-style:  
+  font-family: sans-serif;
+  line-height: 20px;
+  letter-spacing: 2px;
+}
+
